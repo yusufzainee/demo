@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "_id": "1a96006d65de3e422d3e2157a18d057b",
+ "_rev": "1-3bb5708d4584ffd5603fc43f7e149b20",
+ "password_fields": {
+   "access_key": "d7591105-208d-4c8e-9418-8f998b47337a-access_key",
+   "secret_key": "d7591105-208d-4c8e-9418-8f998b47337a-secret_key",
+   "s3_bucket": "d7591105-208d-4c8e-9418-8f998b47337a-s3_bucket",
+   "region":"www"
+ },
+ "account_name": "renidoni@in.ibm.com",
+ "account_number": 1012,
+ "vault": "external",
+ "provider_type": 0,
+ "id": "d7591105-208d-4c8e-9418-8f998b47337a",
+ "type": "provider_credentials",
+ "password": "d7591105-208d-4c8e-9418-8f998b47337a"
 }
